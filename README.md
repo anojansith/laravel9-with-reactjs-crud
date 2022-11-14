@@ -24,4 +24,6 @@ Its time you to run the migration. Follow the below command to do so.
 
 5. Login to the dashboard by signing up an account, then add the posts, the output will be following dashboard
 
-![Screenshot (1)](https://user-images.githubusercontent.com/27700240/201709284-60fbb014-0af0-4866-ba02-91c834921797.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/27700240/201709729-361850b3-102d-407e-8ec3-f64b389fbad0.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/27700240/201709731-dfc8004e-747c-4a94-a825-0eb4f277799a.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/27700240/201709733-a991dd76-5a3a-410c-ac86-138ea4e89988.png)
