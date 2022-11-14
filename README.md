@@ -21,3 +21,7 @@ Its time you to run the migration. Follow the below command to do so.
 3. php artisan migrate
 
 4. npm run build
+
+5. Login to the dashboard by signing up an account, then add the posts, the output will be following dashboard
+
+![Screenshot (1)](https://user-images.githubusercontent.com/27700240/201709284-60fbb014-0af0-4866-ba02-91c834921797.png)
