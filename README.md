@@ -19,3 +19,5 @@ Now let run the vite by following command.
 Its time you to run the migration. Follow the below command to do so.
 
 3. php artisan migrate
+
+4. npm run build
