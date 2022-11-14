@@ -1,3 +1,13 @@
+Create a DB with the name : react-js-crud
+
+1. php artisan migrate 
+
+add in the env file of all the database name and your credentials. 
+
+
+
+
+
 Now install node js package.
 
 1. npm install
